@@ -45,7 +45,6 @@ Hardware – PCs, Cyclone II , USB flasher
     not(bdash,b);
     not(cdash,c);
     not(ddash,d);
-    not(ydash,y);
     and(p,bdash,ddash);
     and(q,adash,b,d);
     and(r,a,b,cdash);
